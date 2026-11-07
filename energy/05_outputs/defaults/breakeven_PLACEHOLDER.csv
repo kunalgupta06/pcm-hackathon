@@ -1,0 +1,49 @@
+city,tariff_id,case,controller,comparison,breakeven_pcm_USD_per_kg,pcm_kg,note,data_status
+Boston,BOS_TOU,passive_wall,none,PCM wall vs same money on extra insulation,0.47,505.8,,PLACEHOLDER
+Boston,BOS_TOU,battery,fixed,PCM thermal battery vs no battery (same controller),-2.07,891.64,never wins,PLACEHOLDER
+Boston,BOS_TOU,battery,rule,PCM thermal battery vs no battery (same controller),-1.93,891.64,never wins,PLACEHOLDER
+Boston,BOS_TOU,battery,smart,PCM thermal battery vs no battery (same controller),0.0,891.64,,PLACEHOLDER
+Boston,BOS_TOUD,passive_wall,none,PCM wall vs same money on extra insulation,0.52,505.8,,PLACEHOLDER
+Boston,BOS_TOUD,battery,fixed,PCM thermal battery vs no battery (same controller),-1.41,891.64,never wins,PLACEHOLDER
+Boston,BOS_TOUD,battery,rule,PCM thermal battery vs no battery (same controller),-1.47,891.64,never wins,PLACEHOLDER
+Boston,BOS_TOUD,battery,smart,PCM thermal battery vs no battery (same controller),0.04,891.64,,PLACEHOLDER
+Fresno,FRE_TOU,passive_wall,none,PCM wall vs same money on extra insulation,2.2,505.8,,PLACEHOLDER
+Fresno,FRE_TOU,battery,fixed,PCM thermal battery vs no battery (same controller),-1.73,891.64,never wins,PLACEHOLDER
+Fresno,FRE_TOU,battery,rule,PCM thermal battery vs no battery (same controller),-2.65,891.64,never wins,PLACEHOLDER
+Fresno,FRE_TOU,battery,smart,PCM thermal battery vs no battery (same controller),16.59,111.46,,PLACEHOLDER
+Fresno,FRE_TOUD,passive_wall,none,PCM wall vs same money on extra insulation,2.15,505.8,,PLACEHOLDER
+Fresno,FRE_TOUD,battery,fixed,PCM thermal battery vs no battery (same controller),0.71,445.82,,PLACEHOLDER
+Fresno,FRE_TOUD,battery,rule,PCM thermal battery vs no battery (same controller),2.78,111.46,,PLACEHOLDER
+Fresno,FRE_TOUD,battery,smart,PCM thermal battery vs no battery (same controller),11.6,222.91,,PLACEHOLDER
+Miami,MIA_TOU,passive_wall,none,PCM wall vs same money on extra insulation,2.29,505.8,,PLACEHOLDER
+Miami,MIA_TOU,battery,fixed,PCM thermal battery vs no battery (same controller),2.97,445.82,,PLACEHOLDER
+Miami,MIA_TOU,battery,rule,PCM thermal battery vs no battery (same controller),3.42,222.91,,PLACEHOLDER
+Miami,MIA_TOU,battery,smart,PCM thermal battery vs no battery (same controller),12.91,222.91,,PLACEHOLDER
+Miami,MIA_TOUD,passive_wall,none,PCM wall vs same money on extra insulation,2.54,505.8,,PLACEHOLDER
+Miami,MIA_TOUD,battery,fixed,PCM thermal battery vs no battery (same controller),2.98,445.82,,PLACEHOLDER
+Miami,MIA_TOUD,battery,rule,PCM thermal battery vs no battery (same controller),14.79,111.46,,PLACEHOLDER
+Miami,MIA_TOUD,battery,smart,PCM thermal battery vs no battery (same controller),15.25,222.91,,PLACEHOLDER
+Phoenix,PHX_TOU,passive_wall,none,PCM wall vs same money on extra insulation,1.43,505.8,,PLACEHOLDER
+Phoenix,PHX_TOU,battery,fixed,PCM thermal battery vs no battery (same controller),0.65,891.64,,PLACEHOLDER
+Phoenix,PHX_TOU,battery,rule,PCM thermal battery vs no battery (same controller),-0.9,891.64,never wins,PLACEHOLDER
+Phoenix,PHX_TOU,battery,smart,PCM thermal battery vs no battery (same controller),11.04,222.91,,PLACEHOLDER
+Phoenix,PHX_TOUD,passive_wall,none,PCM wall vs same money on extra insulation,1.68,505.8,,PLACEHOLDER
+Phoenix,PHX_TOUD,battery,fixed,PCM thermal battery vs no battery (same controller),3.86,891.64,,PLACEHOLDER
+Phoenix,PHX_TOUD,battery,rule,PCM thermal battery vs no battery (same controller),6.95,111.46,,PLACEHOLDER
+Phoenix,PHX_TOUD,battery,smart,PCM thermal battery vs no battery (same controller),11.1,222.91,,PLACEHOLDER
+Sacramento,SAC_TOU,passive_wall,none,PCM wall vs same money on extra insulation,3.91,505.8,,PLACEHOLDER
+Sacramento,SAC_TOU,battery,fixed,PCM thermal battery vs no battery (same controller),-0.27,891.64,never wins,PLACEHOLDER
+Sacramento,SAC_TOU,battery,rule,PCM thermal battery vs no battery (same controller),-0.99,891.64,never wins,PLACEHOLDER
+Sacramento,SAC_TOU,battery,smart,PCM thermal battery vs no battery (same controller),12.74,222.91,,PLACEHOLDER
+Sacramento,SAC_TOUD,passive_wall,none,PCM wall vs same money on extra insulation,3.62,505.8,,PLACEHOLDER
+Sacramento,SAC_TOUD,battery,fixed,PCM thermal battery vs no battery (same controller),0.93,891.64,,PLACEHOLDER
+Sacramento,SAC_TOUD,battery,rule,PCM thermal battery vs no battery (same controller),-0.84,891.64,never wins,PLACEHOLDER
+Sacramento,SAC_TOUD,battery,smart,PCM thermal battery vs no battery (same controller),12.05,222.91,,PLACEHOLDER
+San Diego,SD_TOU,passive_wall,none,PCM wall vs same money on extra insulation,5.56,505.8,,PLACEHOLDER
+San Diego,SD_TOU,battery,fixed,PCM thermal battery vs no battery (same controller),-2.55,891.64,never wins,PLACEHOLDER
+San Diego,SD_TOU,battery,rule,PCM thermal battery vs no battery (same controller),-3.48,891.64,never wins,PLACEHOLDER
+San Diego,SD_TOU,battery,smart,PCM thermal battery vs no battery (same controller),12.82,222.91,,PLACEHOLDER
+San Diego,SD_TOUD,passive_wall,none,PCM wall vs same money on extra insulation,5.5,505.8,,PLACEHOLDER
+San Diego,SD_TOUD,battery,fixed,PCM thermal battery vs no battery (same controller),-0.89,445.82,never wins,PLACEHOLDER
+San Diego,SD_TOUD,battery,rule,PCM thermal battery vs no battery (same controller),-2.97,891.64,never wins,PLACEHOLDER
+San Diego,SD_TOUD,battery,smart,PCM thermal battery vs no battery (same controller),12.07,222.91,,PLACEHOLDER

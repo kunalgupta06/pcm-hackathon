@@ -1,0 +1,10 @@
+item,property,value,unit,status,source_url
+RT25HC,melt_min,22,C,Datasheet,https://www.rubitherm.com/media/products/datasheets/Techdata_-RT25HC_EN_09102020.PDF
+RT25HC,melt_max,26,C,Datasheet,https://www.rubitherm.com/media/products/datasheets/Techdata_-RT25HC_EN_09102020.PDF
+RT25HC,melt_peak,25,C,Datasheet,https://www.rubitherm.com/media/products/datasheets/Techdata_-RT25HC_EN_09102020.PDF
+RT25HC,storage_capacity,230,kJ/kg,Includes sensible storage over stated interval; not isolated latent heat,https://www.rubitherm.com/media/products/datasheets/Techdata_-RT25HC_EN_09102020.PDF
+RT25HC,storage_capacity_alternate,58,Wh/kg,Conflicts with 230kJ/kg; do not silently reconcile,https://www.rubitherm.com/media/products/datasheets/Techdata_-RT25HC_EN_09102020.PDF
+RT25HC,specific_heat,2,kJ/kg-K,Datasheet,https://www.rubitherm.com/media/products/datasheets/Techdata_-RT25HC_EN_09102020.PDF
+RT25HC,solid_density,880,kg/m3,At15C,https://www.rubitherm.com/media/products/datasheets/Techdata_-RT25HC_EN_09102020.PDF
+RT25HC,liquid_density,770,kg/m3,At stated liquid reference temperature,https://www.rubitherm.com/media/products/datasheets/Techdata_-RT25HC_EN_09102020.PDF
+RT25HC,conductivity,0.2,W/m-K,Raw material; installed composite differs,https://www.rubitherm.com/media/products/datasheets/Techdata_-RT25HC_EN_09102020.PDF

@@ -1,0 +1,65 @@
+{
+  "_README": "Physics only (house, wall, heat pump, tank): STILL PLACEHOLDERS until the thermal expert confirms (energy flag F6). Cities, weather files, tariffs, costs, discount rate and lifetime come from energy/03_inputs/inputs.csv (sourced). Overridden from there: heat_pump.capex_usd_per_kW_thermal, wall.insulation_k, costs.*.",
+  "results_data_status": "PLACEHOLDER",
+
+  "house": {
+    "_note": "Envelope, mass, gains, solar, sky loss and air exchange are derived from the team standard-house baseline v2 (ISO 13790 reference home) at this floor area by house_v2.py: R-20 walls, R-49 ceiling, R-30 floor, U-0.30/SHGC-0.30 windows at 20.8% of wall, 0.35 ACH, light mass, RESNET 301 gains, 68/78 F deadband, latent to 50% RH.",
+    "derive_from_v2": true,
+    "floor_area_m2": 150,
+    "stories": 1,
+    "heating_setpoint_C": 20.0,
+    "cooling_setpoint_C": 25.56,
+    "indoor_RH_cooling_percent": 50,
+    "precool_K": 2.0,
+    "comfort_flex_K": 1.0
+  },
+"wall": {
+    "_baseline_note": "95 mm of XPS (k 0.0288) + drywall + films = R-20 effective wall (baseline v2)",
+    "baseline_insulation_mm": 95,
+    "insulation_k": "from inputs.csv", "insulation_rho": 30, "insulation_cp": 1400,
+    "pcm_k": 0.2, "pcm_rho": 850, "pcm_cp": 2000, "pcm_latent_kJ_per_kg": 180, "pcm_melt_range_K": 2.0,
+    "drywall_mm": 12.5,
+    "solar_absorptance": 0.6,
+    "vertical_to_horizontal_sun": 0.4
+  },
+
+  "heat_pump": {
+    "_cop_note": "Generic heat pump curves from baseline v2 (Model and sources sheet), converted from F; COP 1 (resistance) below the -25 C cutoff",
+    "cooling_curve_C_COP": [[18.33, 4.5], [27.78, 3.8], [35.0, 3.2], [43.33, 2.5], [51.67, 2.0]],
+    "heating_curve_C_COP": [[-25.0, 1.4], [-15.0, 1.8], [-8.33, 2.5], [8.33, 3.6], [15.56, 4.2]],
+    "heating_cutoff_C": -25.0,
+    "charging_cop_factor": 0.8,
+    "capex_usd_per_kW_thermal": "from inputs.csv"
+  },
+
+  "tank": {
+    "latent_kJ_per_kg": 180,
+    "usable_fraction": 0.85,
+    "loss_per_hour": 0.005,
+    "charge_efficiency": 0.95,
+    "hours_to_charge": 3,
+    "_cost_note": "Tank cost, O&M and lifetime come from energy/03_inputs/costs_sourced_2026.csv (installed $/kWh_th, residential or commercial).",
+    "sizes_kWh_thermal": [1, 2, 3, 5, 10, 20, 40]
+  },
+
+  "buildings": {
+    "small_office": {
+      "_note": "ASSUMED preset (not sourced): ~200 m2 single-storey office, occupied 8am-6pm weekdays, 15 W/m2 internal gains when occupied. Envelope and mass scaled from the house by floor area; more glazing. Constant setpoint (no night setback). Tariff = each city's TOU+demand as a stand-in: no sourced commercial demand tariff yet (e.g. APS E-32, PG&E B-19, SDG&E AL-TOU, FPL GSD-1, Eversource G-2).",
+      "house": {
+        "floor_area_m2": 200,
+        "wall_area_m2": 150,
+        "UA_total_kW_per_K": 0.215,
+        "thermal_mass_kWh_per_K": 6.1,
+        "solar_aperture_m2": 6.0,
+        "volume_m3": 487.6,
+        "sky_loss_kW": 0.17,
+        "internal_gains_kW": 0.4,
+        "internal_gains_occupied_W_per_m2": 15,
+        "occupied_hours": [8, 18],
+        "occupied_days": "weekdays"
+      },
+      "tariff": "TOU+demand",
+      "tank_cost": "commercial"
+    }
+  }
+}

@@ -1,0 +1,151 @@
+city,case,option,controller,tariff_id,pcm_kg,extra_insulation_cm,wall_area_m2,hp_capacity_kW,data_status
+Boston,passive_wall,baseline,none,,0.0,0.0,120,7.157,PLACEHOLDER
+Boston,passive_wall,insul_1cm,none,,0.0,1.0,120,6.957,PLACEHOLDER
+Boston,passive_wall,insul_2cm,none,,0.0,2.0,120,6.831,PLACEHOLDER
+Boston,passive_wall,insul_3.5cm,none,,0.0,3.5,120,6.715,PLACEHOLDER
+Boston,passive_wall,insul_5cm,none,,0.0,5.0,120,6.622,PLACEHOLDER
+Boston,passive_wall,insul_7.5cm,none,,0.0,7.5,120,6.5,PLACEHOLDER
+Boston,passive_wall,insul_10cm,none,,0.0,10.0,120,6.406,PLACEHOLDER
+Boston,passive_wall,insul_15cm,none,,0.0,15.0,120,6.273,PLACEHOLDER
+Boston,passive_wall,insul_20cm,none,,0.0,20.0,120,6.191,PLACEHOLDER
+Boston,passive_wall,insul_30cm,none,,0.0,30.0,120,6.124,PLACEHOLDER
+Boston,passive_wall,insul_40cm,none,,0.0,40.0,120,6.108,PLACEHOLDER
+Boston,passive_wall,insul_50cm,none,,0.0,50.0,120,6.101,PLACEHOLDER
+Boston,passive_wall,pcm_wall,none,,505.8,0.0,120,7.003,PLACEHOLDER
+Fresno,passive_wall,baseline,none,,0.0,0.0,120,7.902,PLACEHOLDER
+Fresno,passive_wall,insul_1cm,none,,0.0,1.0,120,7.761,PLACEHOLDER
+Fresno,passive_wall,insul_2cm,none,,0.0,2.0,120,7.647,PLACEHOLDER
+Fresno,passive_wall,insul_3.5cm,none,,0.0,3.5,120,7.509,PLACEHOLDER
+Fresno,passive_wall,insul_5cm,none,,0.0,5.0,120,7.4,PLACEHOLDER
+Fresno,passive_wall,insul_7.5cm,none,,0.0,7.5,120,7.258,PLACEHOLDER
+Fresno,passive_wall,insul_10cm,none,,0.0,10.0,120,7.146,PLACEHOLDER
+Fresno,passive_wall,insul_15cm,none,,0.0,15.0,120,6.979,PLACEHOLDER
+Fresno,passive_wall,insul_20cm,none,,0.0,20.0,120,6.865,PLACEHOLDER
+Fresno,passive_wall,insul_30cm,none,,0.0,30.0,120,6.756,PLACEHOLDER
+Fresno,passive_wall,insul_40cm,none,,0.0,40.0,120,6.73,PLACEHOLDER
+Fresno,passive_wall,insul_50cm,none,,0.0,50.0,120,6.725,PLACEHOLDER
+Fresno,passive_wall,pcm_wall,none,,505.8,0.0,120,7.232,PLACEHOLDER
+Miami,passive_wall,baseline,none,,0.0,0.0,120,6.917,PLACEHOLDER
+Miami,passive_wall,insul_1cm,none,,0.0,1.0,120,6.803,PLACEHOLDER
+Miami,passive_wall,insul_2cm,none,,0.0,2.0,120,6.71,PLACEHOLDER
+Miami,passive_wall,insul_3.5cm,none,,0.0,3.5,120,6.6,PLACEHOLDER
+Miami,passive_wall,insul_5cm,none,,0.0,5.0,120,6.512,PLACEHOLDER
+Miami,passive_wall,insul_7.5cm,none,,0.0,7.5,120,6.399,PLACEHOLDER
+Miami,passive_wall,insul_10cm,none,,0.0,10.0,120,6.31,PLACEHOLDER
+Miami,passive_wall,insul_15cm,none,,0.0,15.0,120,6.179,PLACEHOLDER
+Miami,passive_wall,insul_20cm,none,,0.0,20.0,120,6.106,PLACEHOLDER
+Miami,passive_wall,insul_30cm,none,,0.0,30.0,120,6.054,PLACEHOLDER
+Miami,passive_wall,insul_40cm,none,,0.0,40.0,120,6.049,PLACEHOLDER
+Miami,passive_wall,insul_50cm,none,,0.0,50.0,120,6.051,PLACEHOLDER
+Miami,passive_wall,pcm_wall,none,,505.8,0.0,120,6.405,PLACEHOLDER
+Phoenix,passive_wall,baseline,none,,0.0,0.0,120,8.83,PLACEHOLDER
+Phoenix,passive_wall,insul_1cm,none,,0.0,1.0,120,8.668,PLACEHOLDER
+Phoenix,passive_wall,insul_2cm,none,,0.0,2.0,120,8.537,PLACEHOLDER
+Phoenix,passive_wall,insul_3.5cm,none,,0.0,3.5,120,8.38,PLACEHOLDER
+Phoenix,passive_wall,insul_5cm,none,,0.0,5.0,120,8.256,PLACEHOLDER
+Phoenix,passive_wall,insul_7.5cm,none,,0.0,7.5,120,8.095,PLACEHOLDER
+Phoenix,passive_wall,insul_10cm,none,,0.0,10.0,120,7.971,PLACEHOLDER
+Phoenix,passive_wall,insul_15cm,none,,0.0,15.0,120,7.789,PLACEHOLDER
+Phoenix,passive_wall,insul_20cm,none,,0.0,20.0,120,7.67,PLACEHOLDER
+Phoenix,passive_wall,insul_30cm,none,,0.0,30.0,120,7.567,PLACEHOLDER
+Phoenix,passive_wall,insul_40cm,none,,0.0,40.0,120,7.538,PLACEHOLDER
+Phoenix,passive_wall,insul_50cm,none,,0.0,50.0,120,7.525,PLACEHOLDER
+Phoenix,passive_wall,pcm_wall,none,,505.8,0.0,120,8.233,PLACEHOLDER
+Sacramento,passive_wall,baseline,none,,0.0,0.0,120,7.619,PLACEHOLDER
+Sacramento,passive_wall,insul_1cm,none,,0.0,1.0,120,7.487,PLACEHOLDER
+Sacramento,passive_wall,insul_2cm,none,,0.0,2.0,120,7.38,PLACEHOLDER
+Sacramento,passive_wall,insul_3.5cm,none,,0.0,3.5,120,7.25,PLACEHOLDER
+Sacramento,passive_wall,insul_5cm,none,,0.0,5.0,120,7.147,PLACEHOLDER
+Sacramento,passive_wall,insul_7.5cm,none,,0.0,7.5,120,7.01,PLACEHOLDER
+Sacramento,passive_wall,insul_10cm,none,,0.0,10.0,120,6.901,PLACEHOLDER
+Sacramento,passive_wall,insul_15cm,none,,0.0,15.0,120,6.74,PLACEHOLDER
+Sacramento,passive_wall,insul_20cm,none,,0.0,20.0,120,6.634,PLACEHOLDER
+Sacramento,passive_wall,insul_30cm,none,,0.0,30.0,120,6.545,PLACEHOLDER
+Sacramento,passive_wall,insul_40cm,none,,0.0,40.0,120,6.532,PLACEHOLDER
+Sacramento,passive_wall,insul_50cm,none,,0.0,50.0,120,6.533,PLACEHOLDER
+Sacramento,passive_wall,pcm_wall,none,,505.8,0.0,120,6.888,PLACEHOLDER
+San Diego,passive_wall,baseline,none,,0.0,0.0,120,6.246,PLACEHOLDER
+San Diego,passive_wall,insul_1cm,none,,0.0,1.0,120,6.153,PLACEHOLDER
+San Diego,passive_wall,insul_2cm,none,,0.0,2.0,120,6.077,PLACEHOLDER
+San Diego,passive_wall,insul_3.5cm,none,,0.0,3.5,120,5.983,PLACEHOLDER
+San Diego,passive_wall,insul_5cm,none,,0.0,5.0,120,5.905,PLACEHOLDER
+San Diego,passive_wall,insul_7.5cm,none,,0.0,7.5,120,5.797,PLACEHOLDER
+San Diego,passive_wall,insul_10cm,none,,0.0,10.0,120,5.707,PLACEHOLDER
+San Diego,passive_wall,insul_15cm,none,,0.0,15.0,120,5.567,PLACEHOLDER
+San Diego,passive_wall,insul_20cm,none,,0.0,20.0,120,5.479,PLACEHOLDER
+San Diego,passive_wall,insul_30cm,none,,0.0,30.0,120,5.416,PLACEHOLDER
+San Diego,passive_wall,insul_40cm,none,,0.0,40.0,120,5.416,PLACEHOLDER
+San Diego,passive_wall,insul_50cm,none,,0.0,50.0,120,5.423,PLACEHOLDER
+San Diego,passive_wall,pcm_wall,none,,505.8,0.0,120,5.487,PLACEHOLDER
+Boston,battery,no_battery,fixed,BOS_TOU,0.0,0.0,120,7.16,PLACEHOLDER
+Boston,battery,battery,fixed,BOS_TOU,891.64,0.0,120,7.16,PLACEHOLDER
+Boston,battery,no_battery,rule,BOS_TOU,0.0,0.0,120,13.08,PLACEHOLDER
+Boston,battery,battery,rule,BOS_TOU,891.64,0.0,120,13.08,PLACEHOLDER
+Boston,battery,no_battery,smart,BOS_TOU,0.0,0.0,120,6.647,PLACEHOLDER
+Boston,battery,battery,smart,BOS_TOU,891.64,0.0,120,6.647,PLACEHOLDER
+Boston,battery,no_battery,fixed,BOS_TOUD,0.0,0.0,120,7.16,PLACEHOLDER
+Boston,battery,battery,fixed,BOS_TOUD,891.64,0.0,120,7.16,PLACEHOLDER
+Boston,battery,no_battery,rule,BOS_TOUD,0.0,0.0,120,13.08,PLACEHOLDER
+Boston,battery,battery,rule,BOS_TOUD,891.64,0.0,120,13.08,PLACEHOLDER
+Boston,battery,no_battery,smart,BOS_TOUD,0.0,0.0,120,6.647,PLACEHOLDER
+Boston,battery,battery,smart,BOS_TOUD,891.64,0.0,120,6.647,PLACEHOLDER
+Fresno,battery,no_battery,fixed,FRE_TOU,0.0,0.0,120,7.456,PLACEHOLDER
+Fresno,battery,battery,fixed,FRE_TOU,891.64,0.0,120,7.456,PLACEHOLDER
+Fresno,battery,no_battery,rule,FRE_TOU,0.0,0.0,120,10.63,PLACEHOLDER
+Fresno,battery,battery,rule,FRE_TOU,891.64,0.0,120,10.63,PLACEHOLDER
+Fresno,battery,no_battery,smart,FRE_TOU,0.0,0.0,120,6.225,PLACEHOLDER
+Fresno,battery,battery,smart,FRE_TOU,111.46,0.0,120,5.064,PLACEHOLDER
+Fresno,battery,no_battery,fixed,FRE_TOUD,0.0,0.0,120,7.456,PLACEHOLDER
+Fresno,battery,battery,fixed,FRE_TOUD,445.82,0.0,120,7.456,PLACEHOLDER
+Fresno,battery,no_battery,rule,FRE_TOUD,0.0,0.0,120,10.63,PLACEHOLDER
+Fresno,battery,battery,rule,FRE_TOUD,111.46,0.0,120,10.63,PLACEHOLDER
+Fresno,battery,no_battery,smart,FRE_TOUD,0.0,0.0,120,6.225,PLACEHOLDER
+Fresno,battery,battery,smart,FRE_TOUD,222.91,0.0,120,4.278,PLACEHOLDER
+Miami,battery,no_battery,fixed,MIA_TOU,0.0,0.0,120,6.472,PLACEHOLDER
+Miami,battery,battery,fixed,MIA_TOU,445.82,0.0,120,6.472,PLACEHOLDER
+Miami,battery,no_battery,rule,MIA_TOU,0.0,0.0,120,11.17,PLACEHOLDER
+Miami,battery,battery,rule,MIA_TOU,222.91,0.0,120,11.17,PLACEHOLDER
+Miami,battery,no_battery,smart,MIA_TOU,0.0,0.0,120,5.061,PLACEHOLDER
+Miami,battery,battery,smart,MIA_TOU,222.91,0.0,120,3.585,PLACEHOLDER
+Miami,battery,no_battery,fixed,MIA_TOUD,0.0,0.0,120,6.472,PLACEHOLDER
+Miami,battery,battery,fixed,MIA_TOUD,445.82,0.0,120,6.472,PLACEHOLDER
+Miami,battery,no_battery,rule,MIA_TOUD,0.0,0.0,120,11.17,PLACEHOLDER
+Miami,battery,battery,rule,MIA_TOUD,111.46,0.0,120,11.17,PLACEHOLDER
+Miami,battery,no_battery,smart,MIA_TOUD,0.0,0.0,120,5.061,PLACEHOLDER
+Miami,battery,battery,smart,MIA_TOUD,222.91,0.0,120,3.585,PLACEHOLDER
+Phoenix,battery,no_battery,fixed,PHX_TOU,0.0,0.0,120,8.322,PLACEHOLDER
+Phoenix,battery,battery,fixed,PHX_TOU,891.64,0.0,120,8.322,PLACEHOLDER
+Phoenix,battery,no_battery,rule,PHX_TOU,0.0,0.0,120,12.518,PLACEHOLDER
+Phoenix,battery,battery,rule,PHX_TOU,891.64,0.0,120,12.518,PLACEHOLDER
+Phoenix,battery,no_battery,smart,PHX_TOU,0.0,0.0,120,7.217,PLACEHOLDER
+Phoenix,battery,battery,smart,PHX_TOU,222.91,0.0,120,5.763,PLACEHOLDER
+Phoenix,battery,no_battery,fixed,PHX_TOUD,0.0,0.0,120,8.322,PLACEHOLDER
+Phoenix,battery,battery,fixed,PHX_TOUD,891.64,0.0,120,8.322,PLACEHOLDER
+Phoenix,battery,no_battery,rule,PHX_TOUD,0.0,0.0,120,12.518,PLACEHOLDER
+Phoenix,battery,battery,rule,PHX_TOUD,111.46,0.0,120,12.518,PLACEHOLDER
+Phoenix,battery,no_battery,smart,PHX_TOUD,0.0,0.0,120,7.217,PLACEHOLDER
+Phoenix,battery,battery,smart,PHX_TOUD,222.91,0.0,120,5.763,PLACEHOLDER
+Sacramento,battery,no_battery,fixed,SAC_TOU,0.0,0.0,120,7.12,PLACEHOLDER
+Sacramento,battery,battery,fixed,SAC_TOU,891.64,0.0,120,7.12,PLACEHOLDER
+Sacramento,battery,no_battery,rule,SAC_TOU,0.0,0.0,120,9.89,PLACEHOLDER
+Sacramento,battery,battery,rule,SAC_TOU,891.64,0.0,120,9.89,PLACEHOLDER
+Sacramento,battery,no_battery,smart,SAC_TOU,0.0,0.0,120,6.149,PLACEHOLDER
+Sacramento,battery,battery,smart,SAC_TOU,222.91,0.0,120,4.512,PLACEHOLDER
+Sacramento,battery,no_battery,fixed,SAC_TOUD,0.0,0.0,120,7.12,PLACEHOLDER
+Sacramento,battery,battery,fixed,SAC_TOUD,891.64,0.0,120,7.12,PLACEHOLDER
+Sacramento,battery,no_battery,rule,SAC_TOUD,0.0,0.0,120,9.89,PLACEHOLDER
+Sacramento,battery,battery,rule,SAC_TOUD,891.64,0.0,120,9.89,PLACEHOLDER
+Sacramento,battery,no_battery,smart,SAC_TOUD,0.0,0.0,120,6.149,PLACEHOLDER
+Sacramento,battery,battery,smart,SAC_TOUD,222.91,0.0,120,4.512,PLACEHOLDER
+San Diego,battery,no_battery,fixed,SD_TOU,0.0,0.0,120,5.744,PLACEHOLDER
+San Diego,battery,battery,fixed,SD_TOU,891.64,0.0,120,5.744,PLACEHOLDER
+San Diego,battery,no_battery,rule,SD_TOU,0.0,0.0,120,9.654,PLACEHOLDER
+San Diego,battery,battery,rule,SD_TOU,891.64,0.0,120,9.654,PLACEHOLDER
+San Diego,battery,no_battery,smart,SD_TOU,0.0,0.0,120,4.747,PLACEHOLDER
+San Diego,battery,battery,smart,SD_TOU,222.91,0.0,120,2.944,PLACEHOLDER
+San Diego,battery,no_battery,fixed,SD_TOUD,0.0,0.0,120,5.744,PLACEHOLDER
+San Diego,battery,battery,fixed,SD_TOUD,445.82,0.0,120,5.744,PLACEHOLDER
+San Diego,battery,no_battery,rule,SD_TOUD,0.0,0.0,120,9.654,PLACEHOLDER
+San Diego,battery,battery,rule,SD_TOUD,891.64,0.0,120,9.654,PLACEHOLDER
+San Diego,battery,no_battery,smart,SD_TOUD,0.0,0.0,120,4.747,PLACEHOLDER
+San Diego,battery,battery,smart,SD_TOUD,222.91,0.0,120,2.944,PLACEHOLDER

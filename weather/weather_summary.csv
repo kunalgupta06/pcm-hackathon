@@ -1,0 +1,5 @@
+city,station,state,wmo,source_type,lat,lon,utc_offset_h,annual_mean_C,july_mean_daily_max_C,july_mean_daily_min_C,mean_daily_swing_annual_C,mean_daily_swing_summer_C,HDD18_Cday,CDD18_Cday,summer_nights_min_below_22C_share,annual_GHI_kWh_m2,file
+Phoenix,Phoenix Sky Harbor Intl Ap,AZ,722780,TMY3,33.45,-111.98,-7.0,23.8,41.6,29.5,12.5,12.4,543,2661,0.0,2094,USA_AZ_Phoenix-Sky.Harbor.Intl.AP.722780_TMY3.epw
+Fresno,Fresno Yosemite Intl Ap,CA,723890,TMY3,36.78,-119.72,-8.0,17.9,37.1,19.7,13.6,17.5,1275,1238,0.97,1881,USA_CA_Fresno.Air.Terminal.723890_TMY3.epw
+Miami,Miami Intl Ap,FL,722020,TMY3,25.82,-80.30,-5.0,24.5,32.5,24.6,7.1,6.6,67,2442,0.0,1753,USA_FL_Miami.Intl.AP.722020_TMY3.epw
+Boston,Boston-Logan Intl AP,MA,725090,TMY3,42.36700,-71.01700,-5.0,10.6,27.8,19.3,7.9,8.5,3120,419,0.91,1408,USA_MA_Boston-Logan.Intl.AP.725090_TMY3.epw

@@ -1,0 +1,340 @@
+scenario,city,tariff_id,case,controller,breakeven_pcm_USD_per_kg,data_status
+base,Boston,BOS_TOU,passive_wall,none,0.47,PLACEHOLDER
+base,Boston,BOS_TOU,battery,fixed,-2.07,PLACEHOLDER
+base,Boston,BOS_TOU,battery,rule,-1.93,PLACEHOLDER
+base,Boston,BOS_TOU,battery,smart,0.0,PLACEHOLDER
+base,Boston,BOS_TOUD,passive_wall,none,0.52,PLACEHOLDER
+base,Boston,BOS_TOUD,battery,fixed,-1.41,PLACEHOLDER
+base,Boston,BOS_TOUD,battery,rule,-1.47,PLACEHOLDER
+base,Boston,BOS_TOUD,battery,smart,0.04,PLACEHOLDER
+base,Fresno,FRE_TOU,passive_wall,none,2.2,PLACEHOLDER
+base,Fresno,FRE_TOU,battery,fixed,-1.73,PLACEHOLDER
+base,Fresno,FRE_TOU,battery,rule,-2.65,PLACEHOLDER
+base,Fresno,FRE_TOU,battery,smart,16.59,PLACEHOLDER
+base,Fresno,FRE_TOUD,passive_wall,none,2.15,PLACEHOLDER
+base,Fresno,FRE_TOUD,battery,fixed,0.71,PLACEHOLDER
+base,Fresno,FRE_TOUD,battery,rule,2.78,PLACEHOLDER
+base,Fresno,FRE_TOUD,battery,smart,11.6,PLACEHOLDER
+base,Miami,MIA_TOU,passive_wall,none,2.29,PLACEHOLDER
+base,Miami,MIA_TOU,battery,fixed,2.97,PLACEHOLDER
+base,Miami,MIA_TOU,battery,rule,3.42,PLACEHOLDER
+base,Miami,MIA_TOU,battery,smart,12.91,PLACEHOLDER
+base,Miami,MIA_TOUD,passive_wall,none,2.54,PLACEHOLDER
+base,Miami,MIA_TOUD,battery,fixed,2.98,PLACEHOLDER
+base,Miami,MIA_TOUD,battery,rule,14.79,PLACEHOLDER
+base,Miami,MIA_TOUD,battery,smart,15.25,PLACEHOLDER
+base,Phoenix,PHX_TOU,passive_wall,none,1.43,PLACEHOLDER
+base,Phoenix,PHX_TOU,battery,fixed,0.65,PLACEHOLDER
+base,Phoenix,PHX_TOU,battery,rule,-0.9,PLACEHOLDER
+base,Phoenix,PHX_TOU,battery,smart,11.04,PLACEHOLDER
+base,Phoenix,PHX_TOUD,passive_wall,none,1.68,PLACEHOLDER
+base,Phoenix,PHX_TOUD,battery,fixed,3.86,PLACEHOLDER
+base,Phoenix,PHX_TOUD,battery,rule,6.95,PLACEHOLDER
+base,Phoenix,PHX_TOUD,battery,smart,11.1,PLACEHOLDER
+base,Sacramento,SAC_TOU,passive_wall,none,3.91,PLACEHOLDER
+base,Sacramento,SAC_TOU,battery,fixed,-0.27,PLACEHOLDER
+base,Sacramento,SAC_TOU,battery,rule,-0.99,PLACEHOLDER
+base,Sacramento,SAC_TOU,battery,smart,12.74,PLACEHOLDER
+base,Sacramento,SAC_TOUD,passive_wall,none,3.62,PLACEHOLDER
+base,Sacramento,SAC_TOUD,battery,fixed,0.93,PLACEHOLDER
+base,Sacramento,SAC_TOUD,battery,rule,-0.84,PLACEHOLDER
+base,Sacramento,SAC_TOUD,battery,smart,12.05,PLACEHOLDER
+base,San Diego,SD_TOU,passive_wall,none,5.56,PLACEHOLDER
+base,San Diego,SD_TOU,battery,fixed,-2.55,PLACEHOLDER
+base,San Diego,SD_TOU,battery,rule,-3.48,PLACEHOLDER
+base,San Diego,SD_TOU,battery,smart,12.82,PLACEHOLDER
+base,San Diego,SD_TOUD,passive_wall,none,5.5,PLACEHOLDER
+base,San Diego,SD_TOUD,battery,fixed,-0.89,PLACEHOLDER
+base,San Diego,SD_TOUD,battery,rule,-2.97,PLACEHOLDER
+base,San Diego,SD_TOUD,battery,smart,12.07,PLACEHOLDER
+discount 2% (OMB A-4 2023),Boston,BOS_TOU,passive_wall,none,0.48,PLACEHOLDER
+discount 2% (OMB A-4 2023),Boston,BOS_TOU,battery,fixed,-2.27,PLACEHOLDER
+discount 2% (OMB A-4 2023),Boston,BOS_TOU,battery,rule,-2.12,PLACEHOLDER
+discount 2% (OMB A-4 2023),Boston,BOS_TOU,battery,smart,0.0,PLACEHOLDER
+discount 2% (OMB A-4 2023),Boston,BOS_TOUD,passive_wall,none,0.53,PLACEHOLDER
+discount 2% (OMB A-4 2023),Boston,BOS_TOUD,battery,fixed,-1.55,PLACEHOLDER
+discount 2% (OMB A-4 2023),Boston,BOS_TOUD,battery,rule,-1.61,PLACEHOLDER
+discount 2% (OMB A-4 2023),Boston,BOS_TOUD,battery,smart,0.05,PLACEHOLDER
+discount 2% (OMB A-4 2023),Fresno,FRE_TOU,passive_wall,none,2.17,PLACEHOLDER
+discount 2% (OMB A-4 2023),Fresno,FRE_TOU,battery,fixed,-1.9,PLACEHOLDER
+discount 2% (OMB A-4 2023),Fresno,FRE_TOU,battery,rule,-2.91,PLACEHOLDER
+discount 2% (OMB A-4 2023),Fresno,FRE_TOU,battery,smart,16.52,PLACEHOLDER
+discount 2% (OMB A-4 2023),Fresno,FRE_TOUD,passive_wall,none,2.13,PLACEHOLDER
+discount 2% (OMB A-4 2023),Fresno,FRE_TOUD,battery,fixed,0.78,PLACEHOLDER
+discount 2% (OMB A-4 2023),Fresno,FRE_TOUD,battery,rule,3.06,PLACEHOLDER
+discount 2% (OMB A-4 2023),Fresno,FRE_TOUD,battery,smart,11.32,PLACEHOLDER
+discount 2% (OMB A-4 2023),Miami,MIA_TOU,passive_wall,none,2.23,PLACEHOLDER
+discount 2% (OMB A-4 2023),Miami,MIA_TOU,battery,fixed,3.27,PLACEHOLDER
+discount 2% (OMB A-4 2023),Miami,MIA_TOU,battery,rule,3.76,PLACEHOLDER
+discount 2% (OMB A-4 2023),Miami,MIA_TOU,battery,smart,13.1,PLACEHOLDER
+discount 2% (OMB A-4 2023),Miami,MIA_TOUD,passive_wall,none,2.5,PLACEHOLDER
+discount 2% (OMB A-4 2023),Miami,MIA_TOUD,battery,fixed,3.27,PLACEHOLDER
+discount 2% (OMB A-4 2023),Miami,MIA_TOUD,battery,rule,16.26,PLACEHOLDER
+discount 2% (OMB A-4 2023),Miami,MIA_TOUD,battery,smart,15.68,PLACEHOLDER
+discount 2% (OMB A-4 2023),Phoenix,PHX_TOU,passive_wall,none,1.39,PLACEHOLDER
+discount 2% (OMB A-4 2023),Phoenix,PHX_TOU,battery,fixed,0.71,PLACEHOLDER
+discount 2% (OMB A-4 2023),Phoenix,PHX_TOU,battery,rule,-0.99,PLACEHOLDER
+discount 2% (OMB A-4 2023),Phoenix,PHX_TOU,battery,smart,11.06,PLACEHOLDER
+discount 2% (OMB A-4 2023),Phoenix,PHX_TOUD,passive_wall,none,1.65,PLACEHOLDER
+discount 2% (OMB A-4 2023),Phoenix,PHX_TOUD,battery,fixed,4.24,PLACEHOLDER
+discount 2% (OMB A-4 2023),Phoenix,PHX_TOUD,battery,rule,7.64,PLACEHOLDER
+discount 2% (OMB A-4 2023),Phoenix,PHX_TOUD,battery,smart,11.13,PLACEHOLDER
+discount 2% (OMB A-4 2023),Sacramento,SAC_TOU,passive_wall,none,3.88,PLACEHOLDER
+discount 2% (OMB A-4 2023),Sacramento,SAC_TOU,battery,fixed,-0.3,PLACEHOLDER
+discount 2% (OMB A-4 2023),Sacramento,SAC_TOU,battery,rule,-1.09,PLACEHOLDER
+discount 2% (OMB A-4 2023),Sacramento,SAC_TOU,battery,smart,12.8,PLACEHOLDER
+discount 2% (OMB A-4 2023),Sacramento,SAC_TOUD,passive_wall,none,3.58,PLACEHOLDER
+discount 2% (OMB A-4 2023),Sacramento,SAC_TOUD,battery,fixed,1.02,PLACEHOLDER
+discount 2% (OMB A-4 2023),Sacramento,SAC_TOUD,battery,rule,-0.93,PLACEHOLDER
+discount 2% (OMB A-4 2023),Sacramento,SAC_TOUD,battery,smart,12.04,PLACEHOLDER
+discount 2% (OMB A-4 2023),San Diego,SD_TOU,passive_wall,none,5.49,PLACEHOLDER
+discount 2% (OMB A-4 2023),San Diego,SD_TOU,battery,fixed,-2.8,PLACEHOLDER
+discount 2% (OMB A-4 2023),San Diego,SD_TOU,battery,rule,-3.82,PLACEHOLDER
+discount 2% (OMB A-4 2023),San Diego,SD_TOU,battery,smart,12.77,PLACEHOLDER
+discount 2% (OMB A-4 2023),San Diego,SD_TOUD,passive_wall,none,5.42,PLACEHOLDER
+discount 2% (OMB A-4 2023),San Diego,SD_TOUD,battery,fixed,-0.98,PLACEHOLDER
+discount 2% (OMB A-4 2023),San Diego,SD_TOUD,battery,rule,-3.27,PLACEHOLDER
+discount 2% (OMB A-4 2023),San Diego,SD_TOUD,battery,smart,11.94,PLACEHOLDER
+discount 7% (OMB A-4 2003),Boston,BOS_TOU,passive_wall,none,0.46,PLACEHOLDER
+discount 7% (OMB A-4 2003),Boston,BOS_TOU,battery,fixed,-1.47,PLACEHOLDER
+discount 7% (OMB A-4 2003),Boston,BOS_TOU,battery,rule,-1.37,PLACEHOLDER
+discount 7% (OMB A-4 2003),Boston,BOS_TOU,battery,smart,0.0,PLACEHOLDER
+discount 7% (OMB A-4 2003),Boston,BOS_TOUD,passive_wall,none,0.5,PLACEHOLDER
+discount 7% (OMB A-4 2003),Boston,BOS_TOUD,battery,fixed,-1.0,PLACEHOLDER
+discount 7% (OMB A-4 2003),Boston,BOS_TOUD,battery,rule,-1.05,PLACEHOLDER
+discount 7% (OMB A-4 2003),Boston,BOS_TOUD,battery,smart,0.03,PLACEHOLDER
+discount 7% (OMB A-4 2003),Fresno,FRE_TOU,passive_wall,none,2.32,PLACEHOLDER
+discount 7% (OMB A-4 2003),Fresno,FRE_TOU,battery,fixed,-1.23,PLACEHOLDER
+discount 7% (OMB A-4 2003),Fresno,FRE_TOU,battery,rule,-1.88,PLACEHOLDER
+discount 7% (OMB A-4 2003),Fresno,FRE_TOU,battery,smart,16.77,PLACEHOLDER
+discount 7% (OMB A-4 2003),Fresno,FRE_TOUD,passive_wall,none,2.26,PLACEHOLDER
+discount 7% (OMB A-4 2003),Fresno,FRE_TOUD,battery,fixed,0.51,PLACEHOLDER
+discount 7% (OMB A-4 2003),Fresno,FRE_TOUD,battery,rule,1.98,PLACEHOLDER
+discount 7% (OMB A-4 2003),Fresno,FRE_TOUD,battery,smart,12.42,PLACEHOLDER
+discount 7% (OMB A-4 2003),Miami,MIA_TOU,passive_wall,none,2.51,PLACEHOLDER
+discount 7% (OMB A-4 2003),Miami,MIA_TOU,battery,fixed,2.12,PLACEHOLDER
+discount 7% (OMB A-4 2003),Miami,MIA_TOU,battery,rule,2.43,PLACEHOLDER
+discount 7% (OMB A-4 2003),Miami,MIA_TOU,battery,smart,12.35,PLACEHOLDER
+discount 7% (OMB A-4 2003),Miami,MIA_TOUD,passive_wall,none,2.68,PLACEHOLDER
+discount 7% (OMB A-4 2003),Miami,MIA_TOUD,battery,fixed,2.12,PLACEHOLDER
+discount 7% (OMB A-4 2003),Miami,MIA_TOUD,battery,rule,10.53,PLACEHOLDER
+discount 7% (OMB A-4 2003),Miami,MIA_TOUD,battery,smart,14.02,PLACEHOLDER
+discount 7% (OMB A-4 2003),Phoenix,PHX_TOU,passive_wall,none,1.57,PLACEHOLDER
+discount 7% (OMB A-4 2003),Phoenix,PHX_TOU,battery,fixed,0.46,PLACEHOLDER
+discount 7% (OMB A-4 2003),Phoenix,PHX_TOU,battery,rule,-0.64,PLACEHOLDER
+discount 7% (OMB A-4 2003),Phoenix,PHX_TOU,battery,smart,10.97,PLACEHOLDER
+discount 7% (OMB A-4 2003),Phoenix,PHX_TOUD,passive_wall,none,1.81,PLACEHOLDER
+discount 7% (OMB A-4 2003),Phoenix,PHX_TOUD,battery,fixed,2.75,PLACEHOLDER
+discount 7% (OMB A-4 2003),Phoenix,PHX_TOUD,battery,rule,4.95,PLACEHOLDER
+discount 7% (OMB A-4 2003),Phoenix,PHX_TOUD,battery,smart,11.01,PLACEHOLDER
+discount 7% (OMB A-4 2003),Sacramento,SAC_TOU,passive_wall,none,4.04,PLACEHOLDER
+discount 7% (OMB A-4 2003),Sacramento,SAC_TOU,battery,fixed,-0.19,PLACEHOLDER
+discount 7% (OMB A-4 2003),Sacramento,SAC_TOU,battery,rule,-0.71,PLACEHOLDER
+discount 7% (OMB A-4 2003),Sacramento,SAC_TOU,battery,smart,12.57,PLACEHOLDER
+discount 7% (OMB A-4 2003),Sacramento,SAC_TOUD,passive_wall,none,3.78,PLACEHOLDER
+discount 7% (OMB A-4 2003),Sacramento,SAC_TOUD,battery,fixed,0.66,PLACEHOLDER
+discount 7% (OMB A-4 2003),Sacramento,SAC_TOUD,battery,rule,-0.6,PLACEHOLDER
+discount 7% (OMB A-4 2003),Sacramento,SAC_TOUD,battery,smart,12.08,PLACEHOLDER
+discount 7% (OMB A-4 2003),San Diego,SD_TOU,passive_wall,none,5.86,PLACEHOLDER
+discount 7% (OMB A-4 2003),San Diego,SD_TOU,battery,fixed,-1.82,PLACEHOLDER
+discount 7% (OMB A-4 2003),San Diego,SD_TOU,battery,rule,-2.48,PLACEHOLDER
+discount 7% (OMB A-4 2003),San Diego,SD_TOU,battery,smart,12.98,PLACEHOLDER
+discount 7% (OMB A-4 2003),San Diego,SD_TOUD,passive_wall,none,5.79,PLACEHOLDER
+discount 7% (OMB A-4 2003),San Diego,SD_TOUD,battery,fixed,-0.63,PLACEHOLDER
+discount 7% (OMB A-4 2003),San Diego,SD_TOUD,battery,rule,-2.12,PLACEHOLDER
+discount 7% (OMB A-4 2003),San Diego,SD_TOUD,battery,smart,12.45,PLACEHOLDER
+heat pump $/kW high (NYSERDA),Boston,BOS_TOU,passive_wall,none,0.45,PLACEHOLDER
+heat pump $/kW high (NYSERDA),Boston,BOS_TOU,battery,fixed,-2.07,PLACEHOLDER
+heat pump $/kW high (NYSERDA),Boston,BOS_TOU,battery,rule,-1.93,PLACEHOLDER
+heat pump $/kW high (NYSERDA),Boston,BOS_TOU,battery,smart,0.0,PLACEHOLDER
+heat pump $/kW high (NYSERDA),Boston,BOS_TOUD,passive_wall,none,0.5,PLACEHOLDER
+heat pump $/kW high (NYSERDA),Boston,BOS_TOUD,battery,fixed,-1.41,PLACEHOLDER
+heat pump $/kW high (NYSERDA),Boston,BOS_TOUD,battery,rule,-1.47,PLACEHOLDER
+heat pump $/kW high (NYSERDA),Boston,BOS_TOUD,battery,smart,0.04,PLACEHOLDER
+heat pump $/kW high (NYSERDA),Fresno,FRE_TOU,passive_wall,none,2.37,PLACEHOLDER
+heat pump $/kW high (NYSERDA),Fresno,FRE_TOU,battery,fixed,-1.73,PLACEHOLDER
+heat pump $/kW high (NYSERDA),Fresno,FRE_TOU,battery,rule,-2.65,PLACEHOLDER
+heat pump $/kW high (NYSERDA),Fresno,FRE_TOU,battery,smart,26.53,PLACEHOLDER
+heat pump $/kW high (NYSERDA),Fresno,FRE_TOUD,passive_wall,none,2.31,PLACEHOLDER
+heat pump $/kW high (NYSERDA),Fresno,FRE_TOUD,battery,fixed,0.71,PLACEHOLDER
+heat pump $/kW high (NYSERDA),Fresno,FRE_TOUD,battery,rule,2.78,PLACEHOLDER
+heat pump $/kW high (NYSERDA),Fresno,FRE_TOUD,battery,smart,19.94,PLACEHOLDER
+heat pump $/kW high (NYSERDA),Miami,MIA_TOU,passive_wall,none,2.58,PLACEHOLDER
+heat pump $/kW high (NYSERDA),Miami,MIA_TOU,battery,fixed,2.97,PLACEHOLDER
+heat pump $/kW high (NYSERDA),Miami,MIA_TOU,battery,rule,3.42,PLACEHOLDER
+heat pump $/kW high (NYSERDA),Miami,MIA_TOU,battery,smart,19.23,PLACEHOLDER
+heat pump $/kW high (NYSERDA),Miami,MIA_TOUD,passive_wall,none,2.73,PLACEHOLDER
+heat pump $/kW high (NYSERDA),Miami,MIA_TOUD,battery,fixed,2.98,PLACEHOLDER
+heat pump $/kW high (NYSERDA),Miami,MIA_TOUD,battery,rule,14.79,PLACEHOLDER
+heat pump $/kW high (NYSERDA),Miami,MIA_TOUD,battery,smart,21.57,PLACEHOLDER
+heat pump $/kW high (NYSERDA),Phoenix,PHX_TOU,passive_wall,none,1.63,PLACEHOLDER
+heat pump $/kW high (NYSERDA),Phoenix,PHX_TOU,battery,fixed,0.65,PLACEHOLDER
+heat pump $/kW high (NYSERDA),Phoenix,PHX_TOU,battery,rule,-0.9,PLACEHOLDER
+heat pump $/kW high (NYSERDA),Phoenix,PHX_TOU,battery,smart,17.26,PLACEHOLDER
+heat pump $/kW high (NYSERDA),Phoenix,PHX_TOUD,passive_wall,none,1.85,PLACEHOLDER
+heat pump $/kW high (NYSERDA),Phoenix,PHX_TOUD,battery,fixed,3.86,PLACEHOLDER
+heat pump $/kW high (NYSERDA),Phoenix,PHX_TOUD,battery,rule,6.95,PLACEHOLDER
+heat pump $/kW high (NYSERDA),Phoenix,PHX_TOUD,battery,smart,17.32,PLACEHOLDER
+heat pump $/kW high (NYSERDA),Sacramento,SAC_TOU,passive_wall,none,4.08,PLACEHOLDER
+heat pump $/kW high (NYSERDA),Sacramento,SAC_TOU,battery,fixed,-0.27,PLACEHOLDER
+heat pump $/kW high (NYSERDA),Sacramento,SAC_TOU,battery,rule,-0.99,PLACEHOLDER
+heat pump $/kW high (NYSERDA),Sacramento,SAC_TOU,battery,smart,19.75,PLACEHOLDER
+heat pump $/kW high (NYSERDA),Sacramento,SAC_TOUD,passive_wall,none,3.83,PLACEHOLDER
+heat pump $/kW high (NYSERDA),Sacramento,SAC_TOUD,battery,fixed,0.93,PLACEHOLDER
+heat pump $/kW high (NYSERDA),Sacramento,SAC_TOUD,battery,rule,-0.84,PLACEHOLDER
+heat pump $/kW high (NYSERDA),Sacramento,SAC_TOUD,battery,smart,19.06,PLACEHOLDER
+heat pump $/kW high (NYSERDA),San Diego,SD_TOU,passive_wall,none,5.96,PLACEHOLDER
+heat pump $/kW high (NYSERDA),San Diego,SD_TOU,battery,fixed,-2.55,PLACEHOLDER
+heat pump $/kW high (NYSERDA),San Diego,SD_TOU,battery,rule,-3.48,PLACEHOLDER
+heat pump $/kW high (NYSERDA),San Diego,SD_TOU,battery,smart,20.54,PLACEHOLDER
+heat pump $/kW high (NYSERDA),San Diego,SD_TOUD,passive_wall,none,5.89,PLACEHOLDER
+heat pump $/kW high (NYSERDA),San Diego,SD_TOUD,battery,fixed,-0.89,PLACEHOLDER
+heat pump $/kW high (NYSERDA),San Diego,SD_TOUD,battery,rule,-2.97,PLACEHOLDER
+heat pump $/kW high (NYSERDA),San Diego,SD_TOUD,battery,smart,19.79,PLACEHOLDER
+insulation cost low (EPS),Boston,BOS_TOU,passive_wall,none,0.39,PLACEHOLDER
+insulation cost low (EPS),Boston,BOS_TOU,battery,fixed,-2.07,PLACEHOLDER
+insulation cost low (EPS),Boston,BOS_TOU,battery,rule,-1.93,PLACEHOLDER
+insulation cost low (EPS),Boston,BOS_TOU,battery,smart,0.0,PLACEHOLDER
+insulation cost low (EPS),Boston,BOS_TOUD,passive_wall,none,0.43,PLACEHOLDER
+insulation cost low (EPS),Boston,BOS_TOUD,battery,fixed,-1.41,PLACEHOLDER
+insulation cost low (EPS),Boston,BOS_TOUD,battery,rule,-1.47,PLACEHOLDER
+insulation cost low (EPS),Boston,BOS_TOUD,battery,smart,0.04,PLACEHOLDER
+insulation cost low (EPS),Fresno,FRE_TOU,passive_wall,none,1.81,PLACEHOLDER
+insulation cost low (EPS),Fresno,FRE_TOU,battery,fixed,-1.73,PLACEHOLDER
+insulation cost low (EPS),Fresno,FRE_TOU,battery,rule,-2.65,PLACEHOLDER
+insulation cost low (EPS),Fresno,FRE_TOU,battery,smart,16.59,PLACEHOLDER
+insulation cost low (EPS),Fresno,FRE_TOUD,passive_wall,none,1.78,PLACEHOLDER
+insulation cost low (EPS),Fresno,FRE_TOUD,battery,fixed,0.71,PLACEHOLDER
+insulation cost low (EPS),Fresno,FRE_TOUD,battery,rule,2.78,PLACEHOLDER
+insulation cost low (EPS),Fresno,FRE_TOUD,battery,smart,11.6,PLACEHOLDER
+insulation cost low (EPS),Miami,MIA_TOU,passive_wall,none,1.89,PLACEHOLDER
+insulation cost low (EPS),Miami,MIA_TOU,battery,fixed,2.97,PLACEHOLDER
+insulation cost low (EPS),Miami,MIA_TOU,battery,rule,3.42,PLACEHOLDER
+insulation cost low (EPS),Miami,MIA_TOU,battery,smart,12.91,PLACEHOLDER
+insulation cost low (EPS),Miami,MIA_TOUD,passive_wall,none,2.09,PLACEHOLDER
+insulation cost low (EPS),Miami,MIA_TOUD,battery,fixed,2.98,PLACEHOLDER
+insulation cost low (EPS),Miami,MIA_TOUD,battery,rule,14.79,PLACEHOLDER
+insulation cost low (EPS),Miami,MIA_TOUD,battery,smart,15.25,PLACEHOLDER
+insulation cost low (EPS),Phoenix,PHX_TOU,passive_wall,none,1.18,PLACEHOLDER
+insulation cost low (EPS),Phoenix,PHX_TOU,battery,fixed,0.65,PLACEHOLDER
+insulation cost low (EPS),Phoenix,PHX_TOU,battery,rule,-0.9,PLACEHOLDER
+insulation cost low (EPS),Phoenix,PHX_TOU,battery,smart,11.04,PLACEHOLDER
+insulation cost low (EPS),Phoenix,PHX_TOUD,passive_wall,none,1.39,PLACEHOLDER
+insulation cost low (EPS),Phoenix,PHX_TOUD,battery,fixed,3.86,PLACEHOLDER
+insulation cost low (EPS),Phoenix,PHX_TOUD,battery,rule,6.95,PLACEHOLDER
+insulation cost low (EPS),Phoenix,PHX_TOUD,battery,smart,11.1,PLACEHOLDER
+insulation cost low (EPS),Sacramento,SAC_TOU,passive_wall,none,3.23,PLACEHOLDER
+insulation cost low (EPS),Sacramento,SAC_TOU,battery,fixed,-0.27,PLACEHOLDER
+insulation cost low (EPS),Sacramento,SAC_TOU,battery,rule,-0.99,PLACEHOLDER
+insulation cost low (EPS),Sacramento,SAC_TOU,battery,smart,12.74,PLACEHOLDER
+insulation cost low (EPS),Sacramento,SAC_TOUD,passive_wall,none,2.99,PLACEHOLDER
+insulation cost low (EPS),Sacramento,SAC_TOUD,battery,fixed,0.93,PLACEHOLDER
+insulation cost low (EPS),Sacramento,SAC_TOUD,battery,rule,-0.84,PLACEHOLDER
+insulation cost low (EPS),Sacramento,SAC_TOUD,battery,smart,12.05,PLACEHOLDER
+insulation cost low (EPS),San Diego,SD_TOU,passive_wall,none,4.59,PLACEHOLDER
+insulation cost low (EPS),San Diego,SD_TOU,battery,fixed,-2.55,PLACEHOLDER
+insulation cost low (EPS),San Diego,SD_TOU,battery,rule,-3.48,PLACEHOLDER
+insulation cost low (EPS),San Diego,SD_TOU,battery,smart,12.82,PLACEHOLDER
+insulation cost low (EPS),San Diego,SD_TOUD,passive_wall,none,4.53,PLACEHOLDER
+insulation cost low (EPS),San Diego,SD_TOUD,battery,fixed,-0.89,PLACEHOLDER
+insulation cost low (EPS),San Diego,SD_TOUD,battery,rule,-2.97,PLACEHOLDER
+insulation cost low (EPS),San Diego,SD_TOUD,battery,smart,12.07,PLACEHOLDER
+insulation cost high (polyiso),Boston,BOS_TOU,passive_wall,none,0.56,PLACEHOLDER
+insulation cost high (polyiso),Boston,BOS_TOU,battery,fixed,-2.07,PLACEHOLDER
+insulation cost high (polyiso),Boston,BOS_TOU,battery,rule,-1.93,PLACEHOLDER
+insulation cost high (polyiso),Boston,BOS_TOU,battery,smart,0.0,PLACEHOLDER
+insulation cost high (polyiso),Boston,BOS_TOUD,passive_wall,none,0.62,PLACEHOLDER
+insulation cost high (polyiso),Boston,BOS_TOUD,battery,fixed,-1.41,PLACEHOLDER
+insulation cost high (polyiso),Boston,BOS_TOUD,battery,rule,-1.47,PLACEHOLDER
+insulation cost high (polyiso),Boston,BOS_TOUD,battery,smart,0.04,PLACEHOLDER
+insulation cost high (polyiso),Fresno,FRE_TOU,passive_wall,none,2.6,PLACEHOLDER
+insulation cost high (polyiso),Fresno,FRE_TOU,battery,fixed,-1.73,PLACEHOLDER
+insulation cost high (polyiso),Fresno,FRE_TOU,battery,rule,-2.65,PLACEHOLDER
+insulation cost high (polyiso),Fresno,FRE_TOU,battery,smart,16.59,PLACEHOLDER
+insulation cost high (polyiso),Fresno,FRE_TOUD,passive_wall,none,2.55,PLACEHOLDER
+insulation cost high (polyiso),Fresno,FRE_TOUD,battery,fixed,0.71,PLACEHOLDER
+insulation cost high (polyiso),Fresno,FRE_TOUD,battery,rule,2.78,PLACEHOLDER
+insulation cost high (polyiso),Fresno,FRE_TOUD,battery,smart,11.6,PLACEHOLDER
+insulation cost high (polyiso),Miami,MIA_TOU,passive_wall,none,2.71,PLACEHOLDER
+insulation cost high (polyiso),Miami,MIA_TOU,battery,fixed,2.97,PLACEHOLDER
+insulation cost high (polyiso),Miami,MIA_TOU,battery,rule,3.42,PLACEHOLDER
+insulation cost high (polyiso),Miami,MIA_TOU,battery,smart,12.91,PLACEHOLDER
+insulation cost high (polyiso),Miami,MIA_TOUD,passive_wall,none,3.01,PLACEHOLDER
+insulation cost high (polyiso),Miami,MIA_TOUD,battery,fixed,2.98,PLACEHOLDER
+insulation cost high (polyiso),Miami,MIA_TOUD,battery,rule,14.79,PLACEHOLDER
+insulation cost high (polyiso),Miami,MIA_TOUD,battery,smart,15.25,PLACEHOLDER
+insulation cost high (polyiso),Phoenix,PHX_TOU,passive_wall,none,1.69,PLACEHOLDER
+insulation cost high (polyiso),Phoenix,PHX_TOU,battery,fixed,0.65,PLACEHOLDER
+insulation cost high (polyiso),Phoenix,PHX_TOU,battery,rule,-0.9,PLACEHOLDER
+insulation cost high (polyiso),Phoenix,PHX_TOU,battery,smart,11.04,PLACEHOLDER
+insulation cost high (polyiso),Phoenix,PHX_TOUD,passive_wall,none,1.99,PLACEHOLDER
+insulation cost high (polyiso),Phoenix,PHX_TOUD,battery,fixed,3.86,PLACEHOLDER
+insulation cost high (polyiso),Phoenix,PHX_TOUD,battery,rule,6.95,PLACEHOLDER
+insulation cost high (polyiso),Phoenix,PHX_TOUD,battery,smart,11.1,PLACEHOLDER
+insulation cost high (polyiso),Sacramento,SAC_TOU,passive_wall,none,4.64,PLACEHOLDER
+insulation cost high (polyiso),Sacramento,SAC_TOU,battery,fixed,-0.27,PLACEHOLDER
+insulation cost high (polyiso),Sacramento,SAC_TOU,battery,rule,-0.99,PLACEHOLDER
+insulation cost high (polyiso),Sacramento,SAC_TOU,battery,smart,12.74,PLACEHOLDER
+insulation cost high (polyiso),Sacramento,SAC_TOUD,passive_wall,none,4.29,PLACEHOLDER
+insulation cost high (polyiso),Sacramento,SAC_TOUD,battery,fixed,0.93,PLACEHOLDER
+insulation cost high (polyiso),Sacramento,SAC_TOUD,battery,rule,-0.84,PLACEHOLDER
+insulation cost high (polyiso),Sacramento,SAC_TOUD,battery,smart,12.05,PLACEHOLDER
+insulation cost high (polyiso),San Diego,SD_TOU,passive_wall,none,6.59,PLACEHOLDER
+insulation cost high (polyiso),San Diego,SD_TOU,battery,fixed,-2.55,PLACEHOLDER
+insulation cost high (polyiso),San Diego,SD_TOU,battery,rule,-3.48,PLACEHOLDER
+insulation cost high (polyiso),San Diego,SD_TOU,battery,smart,12.82,PLACEHOLDER
+insulation cost high (polyiso),San Diego,SD_TOUD,passive_wall,none,6.51,PLACEHOLDER
+insulation cost high (polyiso),San Diego,SD_TOUD,battery,fixed,-0.89,PLACEHOLDER
+insulation cost high (polyiso),San Diego,SD_TOUD,battery,rule,-2.97,PLACEHOLDER
+insulation cost high (polyiso),San Diego,SD_TOUD,battery,smart,12.07,PLACEHOLDER
+lower price tier (baseline credit / <=1000 kWh),Boston,BOS_TOU,passive_wall,none,0.46,PLACEHOLDER
+lower price tier (baseline credit / <=1000 kWh),Boston,BOS_TOU,battery,fixed,-1.72,PLACEHOLDER
+lower price tier (baseline credit / <=1000 kWh),Boston,BOS_TOU,battery,rule,-1.61,PLACEHOLDER
+lower price tier (baseline credit / <=1000 kWh),Boston,BOS_TOU,battery,smart,0.0,PLACEHOLDER
+lower price tier (baseline credit / <=1000 kWh),Boston,BOS_TOUD,passive_wall,none,0.52,PLACEHOLDER
+lower price tier (baseline credit / <=1000 kWh),Boston,BOS_TOUD,battery,fixed,-1.06,PLACEHOLDER
+lower price tier (baseline credit / <=1000 kWh),Boston,BOS_TOUD,battery,rule,-1.15,PLACEHOLDER
+lower price tier (baseline credit / <=1000 kWh),Boston,BOS_TOUD,battery,smart,0.04,PLACEHOLDER
+lower price tier (baseline credit / <=1000 kWh),Fresno,FRE_TOU,passive_wall,none,2.27,PLACEHOLDER
+lower price tier (baseline credit / <=1000 kWh),Fresno,FRE_TOU,battery,fixed,-1.2,PLACEHOLDER
+lower price tier (baseline credit / <=1000 kWh),Fresno,FRE_TOU,battery,rule,-2.07,PLACEHOLDER
+lower price tier (baseline credit / <=1000 kWh),Fresno,FRE_TOU,battery,smart,16.59,PLACEHOLDER
+lower price tier (baseline credit / <=1000 kWh),Fresno,FRE_TOUD,passive_wall,none,2.15,PLACEHOLDER
+lower price tier (baseline credit / <=1000 kWh),Fresno,FRE_TOUD,battery,fixed,0.71,PLACEHOLDER
+lower price tier (baseline credit / <=1000 kWh),Fresno,FRE_TOUD,battery,rule,2.78,PLACEHOLDER
+lower price tier (baseline credit / <=1000 kWh),Fresno,FRE_TOUD,battery,smart,11.6,PLACEHOLDER
+lower price tier (baseline credit / <=1000 kWh),Miami,MIA_TOU,passive_wall,none,2.3,PLACEHOLDER
+lower price tier (baseline credit / <=1000 kWh),Miami,MIA_TOU,battery,fixed,2.81,PLACEHOLDER
+lower price tier (baseline credit / <=1000 kWh),Miami,MIA_TOU,battery,rule,3.24,PLACEHOLDER
+lower price tier (baseline credit / <=1000 kWh),Miami,MIA_TOU,battery,smart,12.81,PLACEHOLDER
+lower price tier (baseline credit / <=1000 kWh),Miami,MIA_TOUD,passive_wall,none,2.55,PLACEHOLDER
+lower price tier (baseline credit / <=1000 kWh),Miami,MIA_TOUD,battery,fixed,2.81,PLACEHOLDER
+lower price tier (baseline credit / <=1000 kWh),Miami,MIA_TOUD,battery,rule,14.59,PLACEHOLDER
+lower price tier (baseline credit / <=1000 kWh),Miami,MIA_TOUD,battery,smart,15.15,PLACEHOLDER
+lower price tier (baseline credit / <=1000 kWh),Phoenix,PHX_TOU,passive_wall,none,1.43,PLACEHOLDER
+lower price tier (baseline credit / <=1000 kWh),Phoenix,PHX_TOU,battery,fixed,0.65,PLACEHOLDER
+lower price tier (baseline credit / <=1000 kWh),Phoenix,PHX_TOU,battery,rule,-0.9,PLACEHOLDER
+lower price tier (baseline credit / <=1000 kWh),Phoenix,PHX_TOU,battery,smart,11.04,PLACEHOLDER
+lower price tier (baseline credit / <=1000 kWh),Phoenix,PHX_TOUD,passive_wall,none,1.68,PLACEHOLDER
+lower price tier (baseline credit / <=1000 kWh),Phoenix,PHX_TOUD,battery,fixed,3.86,PLACEHOLDER
+lower price tier (baseline credit / <=1000 kWh),Phoenix,PHX_TOUD,battery,rule,6.95,PLACEHOLDER
+lower price tier (baseline credit / <=1000 kWh),Phoenix,PHX_TOUD,battery,smart,11.1,PLACEHOLDER
+lower price tier (baseline credit / <=1000 kWh),Sacramento,SAC_TOU,passive_wall,none,3.91,PLACEHOLDER
+lower price tier (baseline credit / <=1000 kWh),Sacramento,SAC_TOU,battery,fixed,-0.27,PLACEHOLDER
+lower price tier (baseline credit / <=1000 kWh),Sacramento,SAC_TOU,battery,rule,-0.99,PLACEHOLDER
+lower price tier (baseline credit / <=1000 kWh),Sacramento,SAC_TOU,battery,smart,12.74,PLACEHOLDER
+lower price tier (baseline credit / <=1000 kWh),Sacramento,SAC_TOUD,passive_wall,none,3.62,PLACEHOLDER
+lower price tier (baseline credit / <=1000 kWh),Sacramento,SAC_TOUD,battery,fixed,0.93,PLACEHOLDER
+lower price tier (baseline credit / <=1000 kWh),Sacramento,SAC_TOUD,battery,rule,-0.84,PLACEHOLDER
+lower price tier (baseline credit / <=1000 kWh),Sacramento,SAC_TOUD,battery,smart,12.05,PLACEHOLDER
+lower price tier (baseline credit / <=1000 kWh),San Diego,SD_TOU,passive_wall,none,5.56,PLACEHOLDER
+lower price tier (baseline credit / <=1000 kWh),San Diego,SD_TOU,battery,fixed,-2.55,PLACEHOLDER
+lower price tier (baseline credit / <=1000 kWh),San Diego,SD_TOU,battery,rule,-3.48,PLACEHOLDER
+lower price tier (baseline credit / <=1000 kWh),San Diego,SD_TOU,battery,smart,12.82,PLACEHOLDER
+lower price tier (baseline credit / <=1000 kWh),San Diego,SD_TOUD,passive_wall,none,5.5,PLACEHOLDER
+lower price tier (baseline credit / <=1000 kWh),San Diego,SD_TOUD,battery,fixed,-0.89,PLACEHOLDER
+lower price tier (baseline credit / <=1000 kWh),San Diego,SD_TOUD,battery,rule,-2.97,PLACEHOLDER
+lower price tier (baseline credit / <=1000 kWh),San Diego,SD_TOUD,battery,smart,12.07,PLACEHOLDER
+market price pcm_price_paraffin,,,reference,,10.0 (9.7-14.3),OFFICIAL/DERIVED
+market price pcm_price_biobased,,,reference,,3.58 (1.65-5.50),OFFICIAL/DERIVED
+market price pcm_price_salt_hydrate,,,reference,,4.02 (3.08-4.95),OFFICIAL/DERIVED
